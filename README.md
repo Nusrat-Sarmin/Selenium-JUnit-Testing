@@ -15,4 +15,4 @@ Test_Runner: Junit
 
 Run the Automation Script by the following command:
 
-                **gradle clean test**
+                gradle clean test
